@@ -12,9 +12,9 @@
 
 ![Course Logo](images/haproxy+nginx.png)
 
-**Course Link:** [Enroll on Udemy](https://www.udemy.com/course/devops-ansible-by-doing-haproxy-nginx/?couponCode=OVO-SEP-2025)
+**Course Link:** [Enroll on Udemy](https://www.udemy.com/course/devops-ansible-by-doing-haproxy-nginx/?couponCode=OVO-OCT-2025)
 
-**Coupon Code:** Use code `OVO-SEP-2025` for special pricing!
+**Coupon Code:** Use code `OVO-OCT-2025` for special pricing!
 
 **Description:** This course will take you through a complete hands-on journey into the world of Ansible, a powerful tool that has revolutionized the IT industry with its automation capabilities. Starting from the very basics, you will gradually build a robust understanding of this automation platform, giving you a solid foundation to execute advanced functionalities.
 
@@ -24,9 +24,9 @@
 
 ![Course Logo](images/terraform-multi-envs-v1.png)
 
-**Course Link:** [Enroll on Udemy](https://www.udemy.com/course/devops-terraform-how-to-manage-multi-environments/?couponCode=OVO-SEP-2025)
+**Course Link:** [Enroll on Udemy](https://www.udemy.com/course/devops-terraform-how-to-manage-multi-environments/?couponCode=OVO-OCT-2025)
 
-**Coupon Code:** Use code `OVO-SEP-2025` for special pricing!
+**Coupon Code:** Use code `OVO-OCT-2025` for special pricing!
 
 **Description:** In this course, you’ll learn how to properly configure a Terraform backend to store and manage your state files. You’ll also discover several effective strategies for handling multiple environments, including how to separate and isolate infrastructure for development, staging, and production. We’ll explore three proven approaches: using separate folders, Terraform workspaces, and sub-folder structures for environment management.
 
